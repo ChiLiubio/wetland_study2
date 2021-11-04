@@ -7,7 +7,7 @@ Shotgun metagenomic sequencing analysis results.
 ## amplicon
 
 The microtable object of the whole 16S rRNA gene amplicon sequencing dataset.
-See microeco package (https://github.com/ChiLiubio/microeco) for the file format details.
+See microeco package (https://github.com/ChiLiubio/microeco) for the microtable class details.
 
 ## Genomes_anno_data_refseq
 
